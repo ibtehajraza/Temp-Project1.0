@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temp Project 1.0.0.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="temp_btn">BTN</string>
+</resources>
